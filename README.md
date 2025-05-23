@@ -1,0 +1,1 @@
+This is my version of learning and implementing "Python for Finance Cookbook". I will focus on using `polars` as much as possible.
