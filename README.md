@@ -4,4 +4,8 @@
 ## Chapter 1, Acquiring Financial Data
 The chapter focuses on a few most popular sources of financial data, inc. Yahoo Finance, Nasdaq Data Link, Intrinio, and Alpha Vantage, for which we leverage dedicated Python libraries to load and process data for further analysis. 
 
-(TODO: Investigate use of Google API via SerpAPI)
+* APIs (and loaded) explored:
+ - SerpAPI (FREE: 100 calls per month)
+ - AlphaVantage (FREE: 25 calls per day + some other limitations)
+ - NewsAPI for News Sentiment
+ - Intrinio, Tiigo (AlphaVantage alternatives)
