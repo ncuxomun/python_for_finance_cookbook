@@ -17,3 +17,10 @@ The chapter focuses on a few most popular sources of financial data, inc. Yahoo 
  - Changing the frequency of the timeseries data
  - Different ways of imputing the missing data
  - Changing currencies and Different ways of aggregating the data
+
+ ## Chapter 3: Visualizing Financial Time Series
+ The chapter covers:
+ - Basic visualization
+ - Visualizing seasonal patterns
+ - Creating interactive visualizations
+ - Creating candlestick charts
